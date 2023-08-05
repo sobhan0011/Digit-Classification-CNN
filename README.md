@@ -1,1 +1,1 @@
-# Digit-Classification-Neural-Network
+# Digit-Classification-CNN
